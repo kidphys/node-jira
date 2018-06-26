@@ -22,7 +22,7 @@
     }
   ],
   "dependencies": {
-    "request": "<2.16.0"
+    "request": "2.50.0"
   },
   "scripts": {
     "test": "grunt test"
